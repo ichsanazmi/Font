@@ -1,0 +1,51 @@
+Behance Font Listing
+
+A. Sans Serif
+ 1. Atami
+ 2. BigJohn
+ 3. Gila
+ 4. Kubos
+ 5. Maxwell
+  
+B. Serif & Slab
+ 1. Leiko
+ 2. Stanley
+ 
+C. Handwriting & Funny 
+ 1. Anders
+ 2. Antre
+ 3. Arco
+ 4. Bradford
+ 5. Brush Of A Toodle
+ 6. Bukhari Script
+ 7. Carimba Script
+ 8. Castillo
+ 9. Don Jose
+ 10. Facon
+ 11. Gagalin
+ 12. Good Hood
+ 13. Kiwi
+ 14. Luna
+ 15. Mini Story
+ 16. Mocha Frappuchino
+ 17. Odachi
+ 18. Playlist Caps
+ 19. Playlist Script
+ 20. Pristine Script
+ 21. Visually
+ 22. Yeah Papa
+ 23. Selima
+ 
+D. Decorative Sans
+ 1. Abd ElRady
+ 2. Atami Display
+ 3. Atami Stencil
+ 4. Hero
+ 5. Iris
+ 6. Nivo
+ 7. Peace Sans
+ 8. Potra
+ 
+E. Symbols
+ 1. West Side
+ 2. Playlist Ornament
