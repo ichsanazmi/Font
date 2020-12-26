@@ -1,4 +1,4 @@
-Google Fonts Font Listing
+Others Fonts Font Listing
 
 A. Sans Serif
  1. Caviar Dreams
@@ -13,7 +13,7 @@ A. Sans Serif
  10. Metropolis
  11. Mitr
  12. SpartanMB
- 13. Dermawan Script
+ 13. Dermawan Script (cannot redistribute=https://hptypework.com/font/indonesia-dermawan-font-duo/)
  
 B. Serif & Slab
  1. Freeserif
@@ -50,7 +50,7 @@ C. Handwriting & Funny
  28. This July
  29. Welcome 2019
  30. Ballet Harmony
- 31. Indonesia Script
+ 31. Indonesia Script (cannot redistribute=https://hptypework.com/font/indonesia-dermawan-font-duo/)
   
 D. Decorative Sans
  1. Insaniburger
