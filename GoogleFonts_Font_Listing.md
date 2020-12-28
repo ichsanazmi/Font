@@ -51,6 +51,7 @@ B. Serif & Slab
  14. Roboto Slab
  15. Scheherazade
  16. Vidaloka
+ 17. Alegreya
  
 C. Handwriting & Funny 
  1. BerkshireSwash
