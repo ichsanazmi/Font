@@ -14,6 +14,7 @@ A. Sans Serif
  11. Mitr
  12. SpartanMB
  13. Dermawan Script (cannot redistribute=https://hptypework.com/font/indonesia-dermawan-font-duo/)
+ 14. Redwing (cannot redistribute=https://www.jeremynelsondesign.com/case-studies/redwing-athletic-sports-font-family#Download-Block)
  
 B. Serif & Slab
  1. Freeserif
@@ -57,6 +58,7 @@ D. Decorative Sans
  2. Jaapoiki Substract
  3. SF Collegiate
  4. Snippet
+ 5. Hansief (non-rough also) (cannot redistribute=https://www.dafont.com/hansief.font)
  
 E. Symbols
  1. Arabesque Ornaments
