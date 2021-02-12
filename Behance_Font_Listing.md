@@ -5,7 +5,6 @@ A. Sans Serif
  2. BigJohn
  3. Gila
  4. Kubos
- 5. Maxwell
   
 B. Serif & Slab
  1. Leiko
