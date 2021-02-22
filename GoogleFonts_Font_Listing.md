@@ -33,6 +33,7 @@ A. Sans Serif
  30. Sen
  31. Ubuntu
  32. Work Sans
+ 33. Aleo
  
 B. Serif & Slab
  1. Amiri
