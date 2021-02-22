@@ -34,6 +34,7 @@ A. Sans Serif
  31. Ubuntu
  32. Work Sans
  33. Aleo
+ 34. Public Sans
  
 B. Serif & Slab
  1. Amiri
@@ -53,6 +54,9 @@ B. Serif & Slab
  15. Scheherazade
  16. Vidaloka
  17. Alegreya
+ 18. Bitter
+ 19. Jetbrain Mono (Monospace)
+ 20. Perona
  
 C. Handwriting & Funny 
  1. BerkshireSwash
@@ -101,7 +105,10 @@ C. Handwriting & Funny
  44. Sofia
  45. Yellowtail
  46. Yesteryear
- 
+ 47. Tangerin
+ 48. Sacramento
+ 49. 
+
 D. Decorative Sans
  1. Arima Koshi
  2. Arima Madurai
@@ -111,4 +118,6 @@ D. Decorative Sans
  6. Montserrat Alternates
  7. Philosopher
  8. ZCOOL Xiao Wei
- 
+ 9. Sriracha
+ 10. Grandstander
+

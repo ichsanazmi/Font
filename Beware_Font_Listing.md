@@ -1,26 +1,12 @@
 Others Fonts Font Listing
 
 A. Sans Serif
- 1. Caviar Dreams
- 2. Comfortaa
- 3. Datalgreya
- 4. Generica
- 5. Jaapoki
- 6. Junction
- 7. LeagueGothic
- 8. LeagueSpartan
- 9. Louis George Cafe
- 10. Metropolis
- 11. Mitr
- 12. SpartanMB
- 13. Aileron 
- 14. Bebas Neue
- 15. Antonio 
+ 1. Dermawan Script (cannot redistribute=https://hptypework.com/font/indonesia-dermawan-font-duo/)
+ 2. Redwing (cannot redistribute=https://www.jeremynelsondesign.com/case-studies/redwing-athletic-sports-font-family#Download-Block)
  
 B. Serif & Slab
  1. Freeserif
  2. Linden Hill
- 3. Cobaissi
  
 C. Handwriting & Funny 
  1. Abuget
