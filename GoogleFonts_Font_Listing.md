@@ -1,6 +1,6 @@
-Google Fonts Font Listing
+## Google Fonts Font Listing
 
-A. Sans Serif
+### A. Sans Serif
  1. Alef
  2. Arsenal
  3. Asap (8 Styles)
@@ -36,7 +36,7 @@ A. Sans Serif
  33. Aleo
  34. Public Sans
  
-B. Serif & Slab
+### B. Serif & Slab
  1. Amiri
  2. Baskervile
  3. Bio Rhyme (4 Styles)
@@ -58,7 +58,7 @@ B. Serif & Slab
  19. Jetbrain Mono (Monospace)
  20. Perona
  
-C. Handwriting & Funny 
+### C. Handwriting & Funny 
  1. BerkshireSwash
  2. Caveat
  3. Covered By Your Grace
@@ -109,7 +109,7 @@ C. Handwriting & Funny
  48. Sacramento
  49. 
 
-D. Decorative Sans
+### D. Decorative Sans
  1. Arima Koshi
  2. Arima Madurai
  3. Bellota

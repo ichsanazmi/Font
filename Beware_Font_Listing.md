@@ -1,56 +1,16 @@
-Others Fonts Font Listing
+## Others Fonts Font Listing
 
-A. Sans Serif
+### A. Sans Serif
  1. Dermawan Script (cannot redistribute=https://hptypework.com/font/indonesia-dermawan-font-duo/)
  2. Redwing (cannot redistribute=https://www.jeremynelsondesign.com/case-studies/redwing-athletic-sports-font-family#Download-Block)
  
-B. Serif & Slab
- 1. Freeserif
- 2. Linden Hill
+### B. Serif & Slab
  
-C. Handwriting & Funny 
- 1. Abuget
- 2. Anisa Sans
- 3. Apalu
- 4. Are You Okay
- 5. Big Snow
- 6. Esteh
- 7. Fair Prosper
- 8. Fake Serif
- 9. Flubby
- 10. Fonters
- 11. Fontjek
- 12. Foxlite Script
- 13. Geo
- 14. GrandHotel
- 15. Great Sejagad
- 16. Great Vibes
- 17. Hey August
- 18. Hey November
- 19. Hey October
- 20. Oh Now
- 21. PantonRust
- 22. Pixer
- 23. Ranget
- 24. Stay Classy SLDT
- 25. Tahu
- 26. Takota
- 27. Thats Font Folks
- 28. This July
- 29. Welcome 2019
- 30. Ballet Harmony
- 31. Indonesia Script (cannot redistribute=https://hptypework.com/font/indonesia-dermawan-font-duo/)
+### C. Handwriting & Funny 
+ 1. Indonesia Script (cannot redistribute=https://hptypework.com/font/indonesia-dermawan-font-duo/)
   
-D. Decorative Sans
- 1. Insaniburger
- 2. Jaapoiki Substract
- 3. SF Collegiate
- 4. Snippet
- 5. Hansief (non-rough also) (cannot redistribute=https://www.dafont.com/hansief.font)
+### D. Decorative Sans
+ 1. Hansief (non-rough also) (cannot redistribute=https://www.dafont.com/hansief.font)
  
-E. Symbols
- 1. Arabesque Ornaments
- 2. Fotograami Sun
- 3. Heyding
- 4. Lafadz
+### E. Symbols
  

@@ -1,6 +1,6 @@
-Others Fonts Font Listing
+## Others Fonts Font Listing
 
-A. Sans Serif
+### A. Sans Serif
  1. Caviar Dreams
  2. Comfortaa
  3. Datalgreya
@@ -17,12 +17,12 @@ A. Sans Serif
  14. Bebas Neue
  15. Antonio 
  
-B. Serif & Slab
+### B. Serif & Slab
  1. Freeserif
  2. Linden Hill
  3. Cobaissi
  
-C. Handwriting & Funny 
+### C. Handwriting & Funny 
  1. Abuget
  2. Anisa Sans
  3. Apalu
@@ -53,16 +53,14 @@ C. Handwriting & Funny
  28. This July
  29. Welcome 2019
  30. Ballet Harmony
- 31. Indonesia Script (cannot redistribute=https://hptypework.com/font/indonesia-dermawan-font-duo/)
   
-D. Decorative Sans
+### D. Decorative Sans
  1. Insaniburger
  2. Jaapoiki Substract
  3. SF Collegiate
  4. Snippet
- 5. Hansief (non-rough also) (cannot redistribute=https://www.dafont.com/hansief.font)
- 
-E. Symbols
+
+### E. Symbols
  1. Arabesque Ornaments
  2. Fotograami Sun
  3. Heyding
