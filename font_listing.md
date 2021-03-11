@@ -243,6 +243,11 @@
  28. This July
  29. Welcome 2019
  30. Ballet Harmony
+ 31. Amali
+ 32. Fantachy
+ 33. Qolak Pisank
+ 34. Really Free
+ 35. 
   
 ### D. Decorative Sans
  1. Insaniburger
