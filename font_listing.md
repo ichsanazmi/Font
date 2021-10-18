@@ -14,40 +14,32 @@
 
 ### C. Handwriting & Funny
 
-1. Anders
-2. Antre
-3. Arco
-4. Bradford
-5. Brush Of A Toodle
-6. Bukhari Script
-7. Carimba Script
-8. Castillo
-9. Don Jose
-10. Facon
-11. Gagalin
-12. Good Hood
-13. Kiwi
-14. Luna
-15. Mini Story
-16. Mocha Frappuchino
-17. Odachi
-18. Playlist Caps
-19. Playlist Script
-20. Pristine Script
-21. Visually
-22. Yeah Papa
-23. Selima
+1. Arco
+2. Brush Of A Toodle
+3. Bukhari Script
+4. Don Jose
+5. Facon
+6. Gagalin
+7. Good Hood
+8. Kiwi
+9. Luna
+10. Mini Story
+11. Mocha Frappuchino
+12. Odachi
+13. Playlist Caps
+14. Playlist Script
+15. Pristine Script
+16. Yeah Papa
 
 ### D. Decorative Sans
 
 1. Abd ElRady
 2. Atami Display
 3. Atami Stencil
-4. Hero
-5. Iris
-6. Nivo
-7. Peace Sans
-8. Potra
+4. Iris
+5. Nivo
+6. Peace Sans
+7. Potra
 
 ### E. Symbols
 
@@ -78,63 +70,58 @@
 
 ### A. Sans Serif
 
-1. Alef
-2. Arsenal
-3. Asap (8 Styles)
-4. Assistant (5 Styles)
-5. Cabin (8 Styles)
-6. Cairo
-7. Cantarell
-8. Catamaran
-9. Chivo
-10. Economica
-11. Encode Sans
-12. IBM Plex Sans
-13. Inter
-14. Jua
-15. Lato
-16. Lexend Deca
-17. Lilita One
-18. Mali
-19. Montserrat (18 Styles)
-20. Muli
-21. Noto Sans
-22. Nunito Sans
-23. Open Sans
-24. Poppins
-25. PT Sans
-26. Quattrocento Sans
-27. Raleway
-28. Roboto
-29. Rubik
-30. Sen
-31. Ubuntu
-32. Work Sans
-33. Aleo
-34. Public Sans
+1. Arsenal
+2. Asap (8 Styles)
+3. Assistant (5 Styles)
+4. Cabin (8 Styles)
+5. Cairo
+6. Catamaran
+7. Chivo
+8. Economica
+9. Encode Sans
+10. IBM Plex Sans
+11. Inter
+12. Jua
+13. Lato
+14. Lexend Deca
+15. Lilita One
+16. Mali
+17. Montserrat (18 Styles)
+18. Muli
+19. Noto Sans
+20. Nunito Sans
+21. Open Sans
+22. Poppins
+23. PT Sans
+24. Quattrocento Sans
+25. Raleway
+26. Roboto
+27. Rubik
+28. Sen
+29. Ubuntu
+30. Work Sans
+31. Public Sans
 
 ### B. Serif & Slab
 
 1. Amiri
 2. Baskervile
-3. Bio Rhyme (4 Styles)
-4. Cantata One (1 style)
-5. Chonburi (1 Style)
-6. Cormorand Garamond (10 Styles)
-7. Crete Round (2 Styles)
-8. Fanwood (2 Styles)
-9. Lateef (1 Styles)
-10. Merriweather (8 Styles)
-11. Playfair Display (12 Styles)
-12. PT Serif Bold
-13. Quattrocento
-14. Roboto Slab
-15. Scheherazade
-16. Vidaloka
-17. Alegreya
-18. Bitter
-19. Jetbrain Mono (Monospace)
-20. Perona
+3. Cantata One (1 style)
+4. Cormorand Garamond (10 Styles)
+5. Crete Round (2 Styles)
+6. Lateef (1 Styles)
+7. Merriweather (8 Styles)
+8. Playfair Display (12 Styles)
+9. PT Serif Bold
+10. Quattrocento
+11. Roboto Slab
+12. Scheherazade
+13. Vidaloka
+14. Alegreya
+15. Bitter
+16. Jetbrain Mono (Monospace)
+17. Perona
+18. Calistoga
 
 ### C. Handwriting & Funny
 
@@ -143,50 +130,47 @@
 3. Covered By Your Grace
 4. Dancing Script
 5. Dawning Of A New Day
-6. Emblema One
-7. Euphoria Script 
-8. Herr Von Muellerhoff
-9. Homemade Apple
-10. Iceberg
-11. Inconsolata
-12. Indie Flower
-13. Kalam
-14. Kaushan Script
-15. Kristi
-16. Lemon
-17. Lily Script
-18. Lobster
-19. Luckiest Guy
-20. Major Mono Display
-21. Mali
-22. Megrim
-23. Merienda
-24. Merienda One
-25. Mrs. Sheppards
-26. Nanum Pen Scripts
-27. Nunito
-28. Oleo Script
-29. Palanquin
-30. Pangolin
-31. Patrick Hand
-32. Patua One
-33. Permanent Marker
-34. Pompiere
-35. PressStart 2P
-36. Quicksand
-37. Reenie Beanie
-38. Righteous
-39. Rouge Script
-40. Ruthie
-41. Sacramento
-42. Satisfy
-43. Seaweed Script
-44. Sofia
-45. Yellowtail
-46. Yesteryear
-47. Tangerin
-48. Sacramento
-49. 
+6. Euphoria Script 
+7. Iceberg
+8. Inconsolata
+9. Indie Flower
+10. Kalam
+11. Kaushan Script
+12. Kristi
+13. Lemon
+14. Lily Script
+15. Lobster
+16. Luckiest Guy
+17. Major Mono Display
+18. Mali
+19. Megrim
+20. Merienda
+21. Merienda One
+22. Mrs. Sheppards
+23. Nanum Pen Scripts
+24. Nunito
+25. Oleo Script
+26. Palanquin
+27. Pangolin
+28. Patrick Hand
+29. Patua One
+30. Permanent Marker
+31. Pompiere
+32. PressStart 2P
+33. Quicksand
+34. Reenie Beanie
+35. Righteous
+36. Rouge Script
+37. Ruthie
+38. Sacramento
+39. Satisfy
+40. Seaweed Script
+41. Sofia
+42. Yellowtail
+43. Yesteryear
+44. Tangerin
+45. Sacramento
+46. 
 
 ### D. Decorative Sans
 
@@ -207,19 +191,18 @@
 
 1. Caviar Dreams
 2. Comfortaa
-3. Datalgreya
-4. Generica
-5. Jaapoki
-6. Junction
-7. LeagueGothic
-8. LeagueSpartan
-9. Louis George Cafe
-10. Metropolis
-11. Mitr
-12. SpartanMB
-13. Aileron 
-14. Bebas Neue
-15. Antonio 
+3. Generica
+4. Jaapoki
+5. Junction
+6. LeagueGothic
+7. LeagueSpartan
+8. Louis George Cafe
+9. Metropolis
+10. Mitr
+11. SpartanMB
+12. Aileron 
+13. Bebas Neue
+14. Antonio 
 
 ### B. Serif & Slab
 
@@ -231,39 +214,35 @@
 
 1. Abuget
 2. Anisa Sans
-3. Apalu
-4. Are You Okay
-5. Big Snow
-6. Esteh
-7. Fair Prosper
-8. Fake Serif
-9. Flubby
-10. Fonters
-11. Fontjek
-12. Foxlite Script
-13. Geo
-14. GrandHotel
-15. Great Sejagad
-16. Great Vibes
-17. Hey August
-18. Hey November
-19. Hey October
-20. Oh Now
-21. PantonRust
-22. Pixer
-23. Ranget
-24. Stay Classy SLDT
-25. Tahu
-26. Takota
-27. Thats Font Folks
-28. This July
-29. Welcome 2019
-30. Ballet Harmony
-31. Amali
-32. Fantachy
-33. Qolak Pisank
-34. Really Free
-35. 
+3. Big Snow
+4. Esteh
+5. Fair Prosper
+6. Fake Serif
+7. Flubby
+8. Fonters
+9. Fontjek
+10. Geo
+11. GrandHotel
+12. Great Sejagad
+13. Great Vibes
+14. Hey August
+15. Hey November
+16. Hey October
+17. Oh Now
+18. PantonRust
+19. Pixer
+20. Ranget
+21. Stay Classy SLDT
+22. Tahu
+23. Takota
+24. Thats Font Folks
+25. This July
+26. Welcome 2019
+27. Ballet Harmony
+28. Fantachy
+29. Qolak Pisank
+30. Really Free
+31. 
 
 ### D. Decorative Sans
 
@@ -280,5 +259,3 @@
 4. Lafadz
 
 ### F. Arabic
-
-1. Vazir
