@@ -203,6 +203,7 @@
 12. Aileron 
 13. Bebas Neue
 14. Antonio 
+15. Creato Display
 
 ### B. Serif & Slab
 
@@ -242,7 +243,19 @@
 28. Fantachy
 29. Qolak Pisank
 30. Really Free
-31. 
+31. Melissa
+32. JasleensJassy
+33. Arandelle
+34. Aishiteru Lovers
+35. No Virus
+36. Mini Story
+37. Jreeng
+38. Insecure
+39. Celliad
+40. Bajurie
+41. Asteristhico
+42. Anjhay
+43. 
 
 ### D. Decorative Sans
 
@@ -257,5 +270,8 @@
 2. Fotograami Sun
 3. Heyding
 4. Lafadz
+5. Bergamont Ornaments
+6. UI Mockup
+7. Peax Drawn Icon
 
 ### F. Arabic
