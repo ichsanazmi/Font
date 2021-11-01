@@ -120,8 +120,7 @@
 14. Alegreya
 15. Bitter
 16. Jetbrain Mono (Monospace)
-17. Perona
-18. Calistoga
+17. 
 
 ### C. Handwriting & Funny
 
