@@ -6,11 +6,13 @@
 2. BigJohn
 3. Gila
 4. Kubos
+5. Retro Sans
 
 ### B. Serif & Slab
 
 1. Leiko
 2. Stanley
+3. Retro Slab
 
 ### C. Handwriting & Funny
 
@@ -120,7 +122,7 @@
 14. Alegreya
 15. Bitter
 16. Jetbrain Mono (Monospace)
-17. 
+17. Old Standart TT
 
 ### C. Handwriting & Funny
 
@@ -203,12 +205,17 @@
 13. Bebas Neue
 14. Antonio 
 15. Creato Display
+16. Jost (watchout cross)
+17. OpenSauce (sans,one,two)
+18. Jetbrains Mono (monospace)
 
 ### B. Serif & Slab
 
 1. Freeserif
 2. Linden Hill
 3. Cobaissi
+4. Bodoni*
+5. Klei
 
 ### C. Handwriting & Funny
 
