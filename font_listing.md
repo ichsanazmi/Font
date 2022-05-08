@@ -103,6 +103,7 @@
 29. Ubuntu
 30. Work Sans
 31. Public Sans
+32. Plus Jakarta Sans
 
 ### B. Serif & Slab
 
@@ -123,6 +124,9 @@
 15. Bitter
 16. Jetbrain Mono (Monospace)
 17. Old Standart TT
+18. Libre Baskerville
+19. Libre Caslon
+20. Crimson Pro
 
 ### C. Handwriting & Funny
 
@@ -170,8 +174,8 @@
 42. Yellowtail
 43. Yesteryear
 44. Tangerin
-45. Sacramento
-46. 
+45. Grape Nuts
+46. Milonga
 
 ### D. Decorative Sans
 
@@ -185,6 +189,19 @@
 8. ZCOOL Xiao Wei
 9. Sriracha
 10. Grandstander
+
+### F. Arabic
+1. Tajawal
+2. Vazirmatn
+3. IBM Plex Sans Arabic
+4. Mada
+5. Reem Kufi
+6. Readex Pro
+7. Mirza
+8. Kufam
+9. Noto Kufi Arabic
+10. Noto Naskh Arabic
+11. Noto Sans Arabic
 
 ## Others Fonts Font Listing
 
@@ -261,7 +278,9 @@
 40. Bajurie
 41. Asteristhico
 42. Anjhay
-43. 
+43. Flyover
+44. Rumpi
+
 
 ### D. Decorative Sans
 

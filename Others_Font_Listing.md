@@ -16,6 +16,7 @@
  13. Aileron 
  14. Bebas Neue
  15. Antonio 
+ 16. Nexa (ver 2012)
  
 ### B. Serif & Slab
  1. Freeserif
