@@ -104,6 +104,12 @@
 30. Work Sans
 31. Public Sans
 32. Plus Jakarta Sans
+33. Almarai
+34. Anton
+35. Archivo
+36. AzeretMono
+37. Bellota
+38. Urbanist
 
 ### B. Serif & Slab
 
@@ -127,6 +133,8 @@
 18. Libre Baskerville
 19. Libre Caslon
 20. Crimson Pro
+21. Aleo
+22. Brygada
 
 ### C. Handwriting & Funny
 
