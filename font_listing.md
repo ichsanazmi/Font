@@ -199,6 +199,7 @@
 10. Grandstander
 
 ### F. Arabic
+
 1. Tajawal
 2. Vazirmatn
 3. IBM Plex Sans Arabic
@@ -288,7 +289,6 @@
 42. Anjhay
 43. Flyover
 44. Rumpi
-
 
 ### D. Decorative Sans
 
